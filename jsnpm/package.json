@@ -1,0 +1,20 @@
+{
+  "name": "jsnpm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alfredo Sánchez <alfred3ks@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "^7.5.0",
+    "json-server": "^0.16.1",
+    "moment": "^2.27.0",
+    "webpack": "^4.44.0"
+  },
+  "devDependencies": {
+    "date-fns": "^2.15.0"
+  }
+}
